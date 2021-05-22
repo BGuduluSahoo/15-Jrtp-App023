@@ -1,7 +1,7 @@
 public class Demo{
 {
 	int a=20;
-	int b=10;
+	int c=10;
 	System.out.println(a);
-	System.out.println(b);
+	System.out.println(c);
 }
